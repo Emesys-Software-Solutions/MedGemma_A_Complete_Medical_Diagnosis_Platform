@@ -1,6 +1,6 @@
-# 🩻 MedGemma Chest X-Ray Disease Identification
+# 🩻 MedGemma A Complete Medical Diagnosis Platform
 
-> **A multimodal Vision-Language AI system for chest X-ray disease identification, abnormality localization, explainable analysis, and structured clinical report generation.**
+> **A multimodal Vision-Language AI system for complete medical diagnosis, abnormality localization, explainable analysis, and structured clinical report generation.**
 
 <p align="center">
 
@@ -46,7 +46,7 @@
 
 Chest radiography is one of the most widely used diagnostic imaging modalities. However, interpretation can involve substantial workload and inter-observer variability.
 
-**MedGemma Chest X-Ray Disease Identification** is a multimodal Vision-Language AI project designed to analyze chest X-ray images, identify potential diseases and abnormalities, provide visual localization, and generate structured clinical narratives.
+**MedGemma A Complete Medical Diagnosis Platform** is a multimodal Vision-Language AI project designed to analyze chest X-ray images, identify potential diseases and abnormalities, provide visual localization, and generate structured clinical narratives.
 
 The proposed system combines a medical vision encoder with a language-model decoder to process radiographs and produce structured outputs.
 
